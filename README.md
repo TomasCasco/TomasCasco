@@ -20,7 +20,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img  width="10%" height="50px" src="https://github.com/tomascasco/TomasCasco/main/logos/expressjs.svg"></code>
+  <code><img  width="10%" height="50px" src="https://github.com/TomasCasco/TomasCasco/blob/main/logos/expressjs.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
   <br />
@@ -35,6 +35,6 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 ## :paperclip: How to reach me:
 <span >
 <a href="https://www.linkedin.com/in/tomascasco/" ><img width="5%" src="https://github.com/tomascasco/TomasCasco/blob/main/logos/linkedin-icon.png"> &nbsp;
-<a href="mailto:tomascasco2000@gmail.com" ><img width="5%" src="https://github.com/tomascasco/TomasCasco/main/logos/gmail-icon%20green.png">
+<a href="mailto:tomascasco2000@gmail.com" ><img width="5%" src="https://github.com/TomasCasco/TomasCasco/blob/main/logos/gmail-icon%20green.png">
 </span>
 
