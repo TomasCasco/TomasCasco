@@ -35,6 +35,6 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 ## :paperclip: How to reach me:
 <span >
 <a href="https://www.linkedin.com/in/tomascasco/" ><img width="5%" src="https://github.com/tomascasco/TomasCasco/blob/main/logos/linkedin.png"> &nbsp;
-<a href="mailto:tomascasco2000@gmail.com" ><img width="5%" src="https://github.com/TomasCasco/TomasCasco/blob/main/logos/Gmail-Logo.png">
+<a href="mailto:tomascasco2000@gmail.com?" ><img width="5%" src="https://github.com/TomasCasco/TomasCasco/blob/main/logos/Gmail-Logo.png">
 </span>
 
