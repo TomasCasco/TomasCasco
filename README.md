@@ -1,4 +1,4 @@
-Hi, I'm Tomas!
+<h1>Hi, I'm Tomas!</h1>
 
 <h2 align="center">
 Full Stack Developer :heart: from Argentina to :earth_americas:
